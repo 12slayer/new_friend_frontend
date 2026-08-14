@@ -6,7 +6,7 @@ import Login from './pages/Login';
 import Register from "./pages/Register";
 import Note from "./components/Notes";
 import Profile from "./components/profile";
-import Chat from "./pages/Chat";
+import Chat from "./pages/chat";
 import NotFound from "./components/NotFound";
 import axios from "axios";
 
