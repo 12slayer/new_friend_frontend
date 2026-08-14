@@ -5,7 +5,7 @@ import Home from './pages/Home';
 import Login from './pages/Login';
 import Register from "./pages/Register";
 import Note from "./components/Notes";
-import Profile from "./components/Profile";
+import Profile from "./components/profile";
 import Chat from "./pages/Chat";
 import NotFound from "./components/NotFound";
 import axios from "axios";
