@@ -6,7 +6,7 @@ import {
   sendMessage,
 } from "../api/Messageapi";
 import { socket } from "../socket";
-import UserHoverAvatar from "../components/UserHoverAvatar";
+import UserHoverAvatar from "../components/Userhoveravatar";
 
 const API_ORIGIN = "http://localhost:5000";
 
