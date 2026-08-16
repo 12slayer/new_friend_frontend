@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { getProfile } from "../api/profile";
-import NotificationBell from "./NotificationBell";
+import NotificationBell from "./Notificationbell";
 
 const API_ORIGIN = "http://localhost:5000"; // backend serves /uploads statically from here
 
