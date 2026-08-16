@@ -6,7 +6,7 @@ import {
   markAllNotificationsRead,
 } from "../api/Notificationsapi";
 import { socket } from "../socket";
-import UserHoverAvatar from "./UserHoverAvatar";
+import UserHoverAvatar from "./Userhoveravatar";
 
 const API_ORIGIN = "http://localhost:5000";
 
