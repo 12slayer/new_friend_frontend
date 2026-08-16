@@ -4,7 +4,7 @@ import {
   getUnreadCount,
   markNotificationRead,
   markAllNotificationsRead,
-} from "../api/notificationsApi";
+} from "../api/Notificationsapi";
 import { socket } from "../socket";
 import UserHoverAvatar from "./UserHoverAvatar";
 
